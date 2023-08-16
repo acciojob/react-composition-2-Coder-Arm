@@ -1,1 +1,15 @@
 
+button{
+    background-color: coral;
+    color: white;
+    border: none;
+    padding: 8px;
+    border-radius: 5px;
+}
+.model-overlay{
+    margin-top: 10px;
+    padding: 10px;
+    background-color: aqua;
+    border: 2px solid grey;
+    border-radius: 10px;
+}
